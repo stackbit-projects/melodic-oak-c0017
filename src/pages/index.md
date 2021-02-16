@@ -103,7 +103,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: This is my title
+  title: This is my title - you can change it
   description: This is the meta description
   extra:
     - name: 'og:type'
