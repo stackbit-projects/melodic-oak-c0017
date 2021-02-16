@@ -107,7 +107,7 @@ seo:
   description: This is the meta description = you can add words up to the character limit
   extra:
     - name: 'og:type'
-      value: 'https://www.hello.com '
+      value: 'https://www.yourwebsite/'
       keyName: property
     - name: 'og:title'
       value: Stackbit Azimuth Theme
