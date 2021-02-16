@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: This is my title - you can change it
-  description: This is the meta description
+  description: This is the meta description = you can add words up to the character limit
   extra:
     - name: 'og:type'
       value: website
