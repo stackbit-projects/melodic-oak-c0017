@@ -110,7 +110,7 @@ seo:
       value: 'https://www.yourwebsite/'
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Facebook title here
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
