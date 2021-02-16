@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: This is my title
-  description: The preview of the Azimuth theme
+  description: This is the meta description
   extra:
     - name: 'og:type'
       value: website
